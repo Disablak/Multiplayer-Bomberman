@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.disablak.my-extensions": {
+      "version": "https://github.com/Disablak/DisablakExtensions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bafcd150a541ec0e2595086aebda8856cb21ce3e"
+    },
+    "com.gustavopsantos.reflex": {
+      "version": "https://github.com/gustavopsantos/reflex.git?path=/Assets/Reflex/#9.0.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f3618e0697d979051efe866cafa954bdf0b7b46e"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
@@ -188,6 +202,13 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
       "depth": 3,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
